@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'slider_dialog.dart';
+import 'range_value_slider_dialog.dart';
 
 class PriceFilterButton extends StatelessWidget {
   const PriceFilterButton({super.key});

@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ready_components/UiComponents/value_range_slider.dart';
+import 'package:ready_components/UiComponents/range_value_slider/open_range_slider_button.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
